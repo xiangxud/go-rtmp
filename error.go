@@ -12,7 +12,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ArturFortunato/go-rtmp/message"
+	"github.com/xiangxud/go-rtmp/message"
 )
 
 var ErrClosed = errors.New("Server is closed")

@@ -8,9 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ArturFortunato/go-rtmp"
-	rtmpmsg "github.com/ArturFortunato/go-rtmp/message"
 	"github.com/pkg/errors"
+	"github.com/xiangxud/go-rtmp"
+	rtmpmsg "github.com/xiangxud/go-rtmp/message"
 	"github.com/yutopp/go-flv"
 	flvtag "github.com/yutopp/go-flv/tag"
 )

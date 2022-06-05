@@ -10,7 +10,7 @@ package rtmp
 import (
 	"io"
 
-	"github.com/ArturFortunato/go-rtmp/message"
+	"github.com/xiangxud/go-rtmp/message"
 )
 
 type Handler interface {

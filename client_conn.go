@@ -13,8 +13,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ArturFortunato/go-rtmp/handshake"
-	"github.com/ArturFortunato/go-rtmp/message"
+	"github.com/xiangxud/go-rtmp/handshake"
+	"github.com/xiangxud/go-rtmp/message"
 )
 
 // ClientConn A wrapper of a connection. It prorives client-side specific features.

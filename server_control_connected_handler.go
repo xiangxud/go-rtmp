@@ -13,8 +13,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/ArturFortunato/go-rtmp/internal"
-	"github.com/ArturFortunato/go-rtmp/message"
+	"github.com/xiangxud/go-rtmp/internal"
+	"github.com/xiangxud/go-rtmp/message"
 )
 
 var _ stateHandler = (*serverControlConnectedHandler)(nil)
